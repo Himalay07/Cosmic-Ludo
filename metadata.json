@@ -1,0 +1,7 @@
+{
+  "name": "Cosmic Ludo - Galactic Race",
+  "description": "A retro sci-fi arcade adaptation of classic Ludo with cosmic alien pilots, synth sound effects, dynamic board physics, and AI opponents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
